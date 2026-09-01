@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>/makaleler</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>/kvkk</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>/makale/kira-sozlesmelerinde-dikkat-edilmesi-gerekenler</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>/makale/anlasmali-bosanma-sureci</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>/makale/ise-iade-davasinin-sartlari</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>/makale/6284-sayili-kanun-koruma-tedbirleri</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>/makale/icra-takibinde-borclu-ve-alacaklinin-haklari</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>/makale/tapu-iptal-ve-tescil-davalari</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>

@@ -1,0 +1,13 @@
+node_modules/
+.project_id
+.github_repo
+.env
+.env.*
+!.env.example
+.admin-password
+screenshots/
+attachments/
+artifacts/
+.grok/
+AGENTS.md
+.vercel/

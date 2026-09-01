@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="Av. Emre Altundaş">
+  <rect width="16" height="16" fill="#0F2747"/>
+  <polygon points="8,1 15,6 1,6" fill="#C8A45D"/>
+  <rect x="1" y="6" width="14" height="1" fill="#C8A45D"/>
+  <rect x="3" y="7" width="3" height="6" fill="#C8A45D"/>
+  <rect x="10" y="7" width="3" height="6" fill="#C8A45D"/>
+  <rect x="1" y="13" width="14" height="1" fill="#C8A45D"/>
+</svg>
