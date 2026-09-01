@@ -375,8 +375,8 @@ function layout({ title, description, body, canonical = "./" }) {
       <div class="header-actions">
         <a class="header-wa" href="${SITE.whatsappHref}" target="_blank" rel="noreferrer">WhatsApp</a>
         <button type="button" class="menu-btn" data-menu-toggle aria-label="Menüyü aç" aria-expanded="false">
-          <span data-icon-open>${icon("menu")}</span>
-          <span data-icon-close hidden>${icon("x")}</span>
+          <span class="burger" data-icon-open aria-hidden="true"></span>
+          <span class="burger-x" data-icon-close hidden aria-hidden="true"></span>
         </button>
       </div>
     </div>
